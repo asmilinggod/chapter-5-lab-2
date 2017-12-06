@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Compare1
+comment1.params=st1\ st2
+comment1.target=java.lang.String\ largest(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ compares\ the\ lexiographic\ value\ of\ a\ string.\ Capitols\ come\ before\ lower\ case.\r\n\ CAT\ >\ cat\r\n\ \r\n
+numComments=2
